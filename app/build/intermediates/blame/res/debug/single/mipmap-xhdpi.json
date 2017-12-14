@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

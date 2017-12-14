@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7a0c406d947eba6cdc1ad27091abab6ea0db8f88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/7486734c35d6107134c2e3436c06facc23707fee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfec93ed0ff5c01d6703f533353c6067875deec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/82859e1325278a6f74d77d92d207775f590bcdd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b799dce105250b27183c518300821fad3aa1803/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/e46c071962d4b7fa49d9ab2c88c1d2eaf71bdca5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fd8e953d13453313b63d1d69bfb4007ba7af2e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/e4a187cafd74260c55c7591e3488875cc2082e3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4616c46fd794b2300b3eb268c5b17630611cc8b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_fe821df4d21bfd7507a0427373de1d202e6167de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_4b001d24da05c6ffcaad2587f21c22027f20a1cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7fbfd579801508e00bd2419b3c4f1332d51bcbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/4cea1f7dd9137dd1319f375c8185dff4049945da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78a8b0f6c3c6be033db5f2e2fc0fb6a39e2b4fa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/a9813a37918f3cd7bfbbab6685832e5f0431bcbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_864862da28b2b194950f91c9697a767583dbeb35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/2a0943c2ad700232195d0c0130e632ddec61ecff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36f2822fa395fce0281cfa13bd58d96d5c671b5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/408fe329c1f3e7682d828b868c2853227547f87b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac86a193263961cb814e8db2cc78c14fe84b1a38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/0bc0061b3a0a1c5276acb20e3873e997fab8136f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cb91080c94236eb57fc6dc965fd1bee54c90fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/14dfe03e6397048f985de8c15bead8215b111304/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8418bf2676363a61748fe9d242eae8c44cc13e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/ecb089eb68fcf8b78a39a1dc45ab5e0673e8ecdc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9900d579cceba1b6d1d22a09b0b7c6868f89c306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/6a91644fc81a26c969d9d7bc75e44fa8fdb6c8a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43cfec118b347414f1cdf71ce565c76ddebb381d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_734572e5431e2e98a13a055d0d46a1a7dd5b8aed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/80a15eb98906a68979ee26d12edc9406ba4705c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22b48fac19e8f0c3c58bad682f77d1ca0ddfd1ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb2a3f75aeb4ca47fae8ccaa9914f362c6de9760/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="121bab5655d62225ad131aee139fbb11dc255715">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29b2850128a61b8a9036583f98f6449a66cbdfc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/.android/build-cache/aaefb6fa12663d1612ac5b1ad84779b4a6278544/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db3b30ea8cd5383227e7cf4d315a0fdf5dea286a/classes.dex" />
+    </item>
+
+</items>

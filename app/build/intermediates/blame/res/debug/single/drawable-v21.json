@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/agus/.android/build-cache/82859e1325278a6f74d77d92d207775f590bcdd3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

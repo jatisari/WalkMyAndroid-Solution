@@ -1,0 +1,7 @@
+#Thu Dec 14 09:10:07 WIB 2017
+base.0=/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29b2850128a61b8a9036583f98f6449a66cbdfc1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb2a3f75aeb4ca47fae8ccaa9914f362c6de9760/classes.dex
+base.1=/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb2a3f75aeb4ca47fae8ccaa9914f362c6de9760
+file.0=/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29b2850128a61b8a9036583f98f6449a66cbdfc1/classes.dex

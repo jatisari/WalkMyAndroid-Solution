@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/agus/.android/build-cache/96cd368da9290ac48941188a0ac527880b35c7a0/output/res/color-v23/abc_tint_default.xml"
+    }
+]

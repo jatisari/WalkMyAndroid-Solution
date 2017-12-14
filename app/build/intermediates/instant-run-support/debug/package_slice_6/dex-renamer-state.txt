@@ -1,0 +1,4 @@
+#Thu Dec 14 09:10:07 WIB 2017
+base.0=/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/agus/private/training/referensi/android-advanced-master/WalkMyAndroid-Solution/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex
